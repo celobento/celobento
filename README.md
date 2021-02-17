@@ -1,4 +1,6 @@
-### Hi there 👋
+Hi there 👋, 
+
+I'm Marcelo Bento, Software Coordinator working for the Brazilian North East Bank.
 
 🔭 I’m currently working on PIX®
 
