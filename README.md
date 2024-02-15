@@ -1,8 +1,8 @@
 Hi there 👋, 
 
-I'm Marcelo Bento, Software Coordinator working for the Brazilian North East Bank.
+I'm Marcelo Bento, Software Developer working for the Brazilian Northeast Bank.
 
-🔭 I’m currently working on PIX®
+🔭 I’m currently working on PIX® - Instant Payment
 
 📫 How to reach me: 
 
