@@ -4,6 +4,8 @@ I'm Marcelo Bento, Software Developer working for the Brazilian Northeast Bank.
 
 🔭 I’m currently working on PIX® - Instant Payment
 
+[![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,react,angular,aws)](https://skillicons.dev)
+
 📫 How to reach me: 
 
 <!--
