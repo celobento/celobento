@@ -4,7 +4,7 @@ I'm Marcelo Bento, Software Developer working for the Brazilian Northeast Bank.
 
 🔭 I’m currently working on PIX® - Instant Payment
 
-[![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,react,angular,aws)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,spring,nodejs,react,angular,aws,next,docker)](https://skillicons.dev)
 
 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-Marcelo_Bento-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/celobento26/)](https://www.linkedin.com/in/celobento26/)
 [![Gmail Badge](https://img.shields.io/badge/-celobento26@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:celobento26@gmail.com)](mailto:celobento26@gmail.com)<br/>
